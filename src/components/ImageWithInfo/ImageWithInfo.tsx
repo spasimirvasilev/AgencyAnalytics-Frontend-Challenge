@@ -20,7 +20,7 @@ const ImageWithInfo: React.FC<{ image: ImageData }> = ({ image }) => {
           alt={image.filename}
         />
       </div>
-      <p>{image.filename}</p>
+      <p className="filename">{image.filename}</p>
       <p className="size">{size.toFixed(2)} MB</p>
     </div>
   );
