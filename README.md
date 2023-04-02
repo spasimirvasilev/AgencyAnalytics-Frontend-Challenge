@@ -1,3 +1,14 @@
+Frontend Challenge for AgencyAnalytics. A simple React app that fetches images from an API and displays them on the screen as thumbnails. Users can click on an image to open a sidebar with more information for that image. They can also favorite and delete images (currently only deletes from state).
+
+To run the app first run:
+
+### `npm install`
+
+Then run:
+
+### `npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
