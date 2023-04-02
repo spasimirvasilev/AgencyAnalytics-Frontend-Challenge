@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AgencyAnalytics-Frontend-Challenge/static/css/main.9bc64d76.css",
+    "main.js": "/AgencyAnalytics-Frontend-Challenge/static/js/main.d509f0d6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AgencyAnalytics-Frontend-Challenge/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AgencyAnalytics-Frontend-Challenge/index.html",
+    "static/media/heart.svg": "/AgencyAnalytics-Frontend-Challenge/static/media/heart.83a937a3410a2eb4b3f159225f0e10eb.svg",
+    "static/media/close.svg": "/AgencyAnalytics-Frontend-Challenge/static/media/close.8bf6ea21173abef98cdc38348d60c9d7.svg",
+    "main.9bc64d76.css.map": "/AgencyAnalytics-Frontend-Challenge/static/css/main.9bc64d76.css.map",
+    "main.d509f0d6.js.map": "/AgencyAnalytics-Frontend-Challenge/static/js/main.d509f0d6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AgencyAnalytics-Frontend-Challenge/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc64d76.css",
+    "static/js/main.d509f0d6.js"
+  ]
+}
