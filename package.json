@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spasimirvasilev.github.io/AgencyAnalytics-Frontend-Challenge",
+  "homepage": "https://spasimirvasilev.github.io/Image-Viewer-Web-App",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "react": "^18.2.0",
